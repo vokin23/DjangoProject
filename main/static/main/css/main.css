@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.logo img {
+    height: 50px; /* Регулируйте размер логотипа по вашему усмотрению */
+    margin-right: 10px;
+}
+
+.navigation {
+    margin: 0 auto; /* Centering the navigation div within top-bar */
+    display: inline-block;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 24px;
+}
+
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 70px;
+}
+
+.content {
+    padding-top: 60px; /* Учитывайте размер верхней панели для корректного отображения контента */
+    /* Здесь будет стилизация остального контента вашего сайта */
+}
+.navigation button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.navigation button:hover {
+    background-color: #45a049;
+}
+/* styles.css */
+
+.content {
+    max-width: 800px; /* Ширина блока контента */
+    margin: 0 auto; /* Центрирование блока контента по горизонтали */
+}
+
+.image-with-text {
+    display: flex; /* Используем flexbox для расположения изображения и текста внутри блока */
+    align-items: center; /* Выравниваем содержимое по вертикали */
+}
+
+.image-with-text img {
+    max-width: 50%; /* Ширина изображения (можно настроить по вашему усмотрению) */
+    margin-right: 20px; /* Отступ между изображением и текстом */
+}
+
+.image-with-text p {
+    flex: 1; /* Занимает все оставшееся пространство справа от изображения */
+}

@@ -1,0 +1,25 @@
+{% extends "main/layout.html" %}
+
+{% block title %}Главная страница{% endblock %}
+
+{% block body %}
+<div class="top-bar">
+        <div class="logo">
+            <img src="" alt="Company Logo">
+            <h1>Название вашего сайта</h1>
+        </div>
+        <div class="navigation">
+            <a href="/">Главная</a>
+            <a href="/about/">О нас</a>
+            <a href="/services/">Услуги</a>
+            <button onclick="location.href='/login'">Войти</button>
+            <!-- Другие ссылки на ваши страницы -->
+        </div>
+    </div>
+    <div class="content">
+        <div class="image-with-text">
+        <img src="" alt="Description">
+        <p>Ваш текст здесь</p>
+    </div>
+    </div>
+{% endblock %}
