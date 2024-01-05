@@ -10,6 +10,20 @@
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
+<div class="top-bar">
+        <div class="logo">
+            <img src="" alt="Company Logo">
+            <h1>Название вашего сайта</h1>
+        </div>
+        <div class="navigation">
+            <a href="/">Главная</a>
+            <a href="/about">О нас</a>
+            <a href="/services">Услуги</a>
+            <button onclick="location.href='/login'">Войти</button>
+            <!-- Другие ссылки на ваши страницы -->
+        </div>
+    </div>
+    </div>
 {% block body %}
 {% endblock %}
 </body>
