@@ -1,0 +1,156 @@
+[
+  {
+    "model": "goods.products",
+    "pk": 1,
+    "fields": {
+      "name": "╚уЁютр  тры■Єр",
+      "slug": "igrovaya-valyuta",
+      "description": "╧Ёш яюъєяъх фрээюую яЁхфьхЄр т√ яюыєўшЄх: 100.000 шуЁютющ тры■Є√.",
+      "image": "goods_image/100-tys-igrval_LEGQC1U.jpg",
+      "price": "300.00",
+      "discount": "0.00",
+      "quantity": 100,
+      "category": 7
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 2,
+    "fields": {
+      "name": "╟р∙шЄэ√щ ъюэЄхщэхЁ 20ы",
+      "slug": "zashitnyj-kontejner-20l",
+      "description": "╟р∙шЄэ√щ ъюэЄхщэхЁ эр 20 ёыюЄют ╤рьюх Ўхээюх - тёхуфр яЁш ёхсх. ┬ёх тх∙ш ёяЁ Єрээ√х т эхую юёЄр■Єё  ё шуЁюъюь фрцх хёыш хую єсштр■Є. ╧юёых яюъєяъш яхЁхьхёЄшЄх яЁхфьхЄ т уюЁ ўшщ ёыюЄ Ё фюь ё юфхцфющ. ╤Ёюъ ¤ъёяыєрЄрЎшш - трщя!",
+      "image": "goods_image/100-tys-igrval_6FMBk9x.jpg",
+      "price": "2000.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 7
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 3,
+    "fields": {
+      "name": "╟р∙шЄэ√щ ъюэЄхщэхЁ 40ы",
+      "slug": "zashitnyj-kontejner-40l",
+      "description": "╟р∙шЄэ√щ ъюэЄхщэхЁ эр 40 ёыюЄют ╤рьюх Ўхээюх - тёхуфр яЁш ёхсх. ┬ёх тх∙ш ёяЁ Єрээ√х т эхую юёЄр■Єё  ё шуЁюъюь фрцх хёыш хую єсштр■Є. ╧юёых яюъєяъш яхЁхьхёЄшЄх яЁхфьхЄ т уюЁ ўшщ ёыюЄ Ё фюь ё юфхцфющ. ╤Ёюъ ¤ъёяыєрЄрЎшш - трщя!",
+      "image": "goods_image/100-tys-igrval_GvRynHM.jpg",
+      "price": "3200.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 7
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 4,
+    "fields": {
+      "name": "└╩╠",
+      "slug": "akm",
+      "description": "└╩╠- 1 °Є. ╧Ёшъырф- 1 °Є. ╧ЁшЎхы okp7- 1 °Є. ╠рурчшэ√- 4 °Є.",
+      "image": "goods_image/100-tys-igrval_rtNYbjF.jpg",
+      "price": "300.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 5,
+    "fields": {
+      "name": "└╩5╤",
+      "slug": "ak5s",
+      "description": "AK5C - °ЄєЁьютр  тшэЄютър Ёюёёшщёъюую яЁюшчтюфёЄтр эр ърышсЁх 7.62ї39. ╬яшёрэшх: 1. AK5C- 1 °Є 2. ╠рурчшэ√ - 4 °Є 3. ACOG Optic - 1 °Є",
+      "image": "goods_image/100-tys-igrval_ZiiGYl6.jpg",
+      "price": "350.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 6,
+    "fields": {
+      "name": "VSS тшэЄюЁхч",
+      "slug": "vss-vintorez",
+      "description": "vss, 4 ьрурчшэр, ярЄЁюэ√, яЁшЎхы hamr",
+      "image": "goods_image/100-tys-igrval_366buP3.jpg",
+      "price": "250.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 2
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 7,
+    "fields": {
+      "name": "═рсюЁ \"╤ЄрЁшўюъ MG\"",
+      "slug": "nabor-starichok-mg",
+      "description": "┬ эрсюЁ тїюфшЄ : - ъюьяыхъЄ ¤ъшяшЁютъш ёєььрЁэ√ь юс·хьюь 400ы - ┴Ёюэ  6с45 4ую ъырёёр - ╦хухэфрЁэ√щ °ыхь ╥ръЄшъ - 5ую ъырёёр сЁюэш ш чр∙шЄющ юЄ ЁрфшрЎшш 100 - Tavr21 т яюыэюь юстхёх",
+      "image": "goods_image/100-tys-igrval_sQsXKuT.jpg",
+      "price": "1200.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 6
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 8,
+    "fields": {
+      "name": "6┴13-╫хЁэ√щ",
+      "slug": "6b13-chernyj",
+      "description": "╬Єышўэ√щ сЁюэхцшыхЄ 5ую єЁютэ  ёютхЄёъюую юсЁрчЎр.",
+      "image": "goods_image/100-tys-igrval_II2BKEh.jpg",
+      "price": "300.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 3
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 9,
+    "fields": {
+      "name": "┴юы№°ющ  ∙шъ",
+      "slug": "bolshoj-yashik",
+      "description": "┴юы№°ющ юЁєцхщэ√щ  ∙шъ эр 1000 ышЄЁют + 4 ёыюЄр яюф юЁєцшх",
+      "image": "goods_image/100-tys-igrval_QvzvTL5.jpg",
+      "price": "1000.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 5
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 10,
+    "fields": {
+      "name": "└фЁхэрышэ эр 4 ўрёр",
+      "slug": "adrenalin-na-4-chasa",
+      "description": "╙ёшыхээ√щ └фЁхэрышэ, шьххЄ тёх Єх цх ётющёЄтр, эю шьххЄ єтхышўхээюх тЁхь  фхщёЄтш  - 4 ўрёр",
+      "image": "goods_image/100-tys-igrval.jpg",
+      "price": "400.00",
+      "discount": "0.00",
+      "quantity": 10,
+      "category": 4
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 11,
+    "fields": {
+      "name": "╟р∙шЄэ√щ ъюэЄхщэхЁ эр 100ы",
+      "slug": "zashitnyj-kontejner-na-100l",
+      "description": "╟р∙шЄэ√щ ъюэЄхщэхЁ эр 100 ёыюЄют ╤рьюх Ўхээюх - тёхуфр яЁш ёхсх. ┬ёх тх∙ш ёяЁ Єрээ√х т эхую юёЄр■Єё  ё шуЁюъюь фрцх хёыш хую єсштр■Є. ╧юёых яюъєяъш яхЁхьхёЄшЄх яЁхфьхЄ т уюЁ ўшщ ёыюЄ Ё фюь ё юфхцфющ. ╤Ёюъ ¤ъёяыєрЄрЎшш - трщя!",
+      "image": "goods_image/100-tys-igrval_1RoKEmF.jpg",
+      "price": "6500.00",
+      "discount": "0.00",
+      "quantity": 0,
+      "category": 7
+    }
+  }
+]

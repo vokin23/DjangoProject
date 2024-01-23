@@ -1,0 +1,58 @@
+[
+  {
+    "model": "goods.categories",
+    "pk": 1,
+    "fields": {
+      "name": "┬ёх ЄютрЁ√",
+      "slug": "all"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 2,
+    "fields": {
+      "name": "╬Ёєцш ",
+      "slug": "oruzhiya"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 3,
+    "fields": {
+      "name": "╤эрЁ цхэшх",
+      "slug": "snaryazhenie"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 4,
+    "fields": {
+      "name": "╧Ёшярё√",
+      "slug": "pripasy"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 5,
+    "fields": {
+      "name": "┴√Єют√х тх∙ш",
+      "slug": "bytovye-veshi"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 6,
+    "fields": {
+      "name": "╩юьяыхъЄ√",
+      "slug": "komplekty"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 7,
+    "fields": {
+      "name": "╨рчэюх",
+      "slug": "raznoe"
+    }
+  }
+]
